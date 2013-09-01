@@ -1,0 +1,41 @@
+body {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.sidebar {
+  background-color: #000000;
+  padding-top: 100px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #FFFFFF;
+}
+
+.logo img {
+  width: 20%;
+  height: 20%;
+}
+
+.lead {
+  font-size: 16px;
+}
+
+.pullcenter {
+  padding-top: 50px;
+  padding-bottom: 300px;
+  text-align: center;
+}
+
+.pullcenter a img {
+  border: 1px solid #00aff2;
+}
+
+em {
+  color: #00aff2;
+  font-style: normal;
+}
+
+.app {
+  padding-top: 20px;
+  text-align: center;
+}
